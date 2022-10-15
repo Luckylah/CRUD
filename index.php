@@ -24,7 +24,7 @@ $db = mysqli_connect('localhost', 'root', '', 'simple_crud');
         }
     </style>
 </head>
-<body>
+<body bgcolor ='black'>
     
 
 
@@ -32,6 +32,7 @@ $db = mysqli_connect('localhost', 'root', '', 'simple_crud');
 
     <input type="text" name="username" placeholder="Enter Name"><br>
     <input type="text" name="number" placeholder="Enter Number"><br>
+    <input type="text" name="number" placeholder="Enter passwrod"><br>
     <input type="submit" value="Click to INSERT" name="add_btn">
 
 </form>
