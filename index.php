@@ -6,7 +6,7 @@ $db = mysqli_connect('localhost', 'root', '', 'simple_crud');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Simple CRUD -- No Voice</title>
+    <title>I Change the Title</title>
     <style>
         *{
             margin: 0;
